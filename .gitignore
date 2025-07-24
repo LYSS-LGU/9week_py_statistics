@@ -3,6 +3,16 @@
 # .gitignore에 추가하는 것이 좋습니다.
 *.csv
 
+# Image files
+# 이미지 파일들은 용량이 클 수 있으므로 Git 추적에서 제외합니다.
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+
 # Python #
 ##########
 # Byte-compiled / optimized files

@@ -3,7 +3,8 @@
     "allow": [
       "Bash(python:*)",
       "WebFetch(domain:docs.anthropic.com)",
-      "Bash(claude-code usage)"
+      "Bash(claude-code usage)",
+      "Bash(type:*)"
     ],
     "deny": []
   }
